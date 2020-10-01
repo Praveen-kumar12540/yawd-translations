@@ -1,4 +1,4 @@
-yawd-translations, create multilingual django websites
+yawd-translations, create multilingual django amazing websites
 ======================================================
 
 `yawd-translations <http://yawd.eu/open-source-projects/yawd-translations/>`_
